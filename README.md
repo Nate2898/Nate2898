@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nate2898&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    [![Nate2898's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nate2898)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ## 🐍 Watch My Contributions
