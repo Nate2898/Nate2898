@@ -21,12 +21,10 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows_Server-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Skill-Networking-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
-[![Nate2898's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nate2898)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📊 GitHub Stats
-<p align="center">
-    
-</p>
+[![Nate2898's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nate2898&show_icons=true&theme=dark)
 
 ## 🐍 Watch My Contributions
 <p align="center">
