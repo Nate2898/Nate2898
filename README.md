@@ -4,23 +4,31 @@
   <div style="position: relative; z-index: 1;">
 <h1 style="color: white; text-align: center; padding: 20px;">👋 Hi there, I'm Nathan</h1>
 
-
-
-## 👨‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>👨‍💻 About Me</h1>
+    </summary>
+  </ul>
+</div>
 
-- 📝 I'm currently learning ICT Infrastructure and Cloud Technologies
-- 👯 I'm looking to collaborate on Network Projects
-- 💻 I'm proficient in Python and Network Programming
-- 🖥️ I enjoy working with both Linux and Windows Server environments
-- 🌐 I specialise in Network Configuration and Management
-- 🔒 I'm passionate about Network Security and Infrastructure
 
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows_Server-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Skill-Networking-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+- 🎓 I'm currently pursuing a Bachelor of ICT Infrastructure
+- 🖥️ I have hands-on experience with both Linux and Windows Server environments
+- ☁️ I'm passionate about cloud technologies and infrastructure automation
+- 🛠️ My coursework and projects focus on network configuration, virtualisation, and systems administration
+- 🔒 I have a keen interest in network security, monitoring, and resilience
+- 👯 I'm eager to collaborate on infrastructure and network engineering projects
+  <br> <br>  
+## 🛠️ Technology Skills
+[![Code: Python](https://img.shields.io/badge/Code-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![OS: Linux](https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org)
+[![OS: Windows Server](https://img.shields.io/badge/OS-Windows_Server-blue?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+[![Expertise: Networking](https://img.shields.io/badge/Expertise-Networking-success?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com)
+[![Expertise: AWS](https://img.shields.io/badge/Expertise-AWS-yellow?style=for-the-badge&logo=amazon-aws&logoColor=black)](https://aws.amazon.com)
+
+
 
 
 ## 📊 GitHub Stats
